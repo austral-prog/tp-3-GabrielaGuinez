@@ -1,3 +1,3 @@
 def slice_advanced():
     variable = input()
-    print(variable [ 5 : : 2])
+    print(variable [ 4 : : 2])
