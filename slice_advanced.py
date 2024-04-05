@@ -1,3 +1,3 @@
 def slice_advanced():
-    variable = input(">")
+    variable = input()
     print(variable [ 5 : : 2])
